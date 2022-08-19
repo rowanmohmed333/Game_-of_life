@@ -1,1 +1,1 @@
-# Game_-of_life
+# Game_of_life
